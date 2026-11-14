@@ -12,7 +12,7 @@
 
 ### I build software around problems I understand.
 
-I'm **Dr. Osasenaga David Evbayiro**, a software engineer, researcher, veterinarian and founder of **$E-Network**, based in Nigeria. My work spans clinical software, election systems, commerce and tools for research.
+I'm **Dr. Osasenaga David Evbayiro**, a veterinary doctor, software engineer, researcher and founder of **$E-Network**, based in Nigeria. My work spans clinical software, election systems, commerce and tools for research.
 
 I work across product architecture, Python backends and React/TypeScript interfaces. My clinical and research background shapes how I approach data, explain decisions and design software for the people using it.
 
