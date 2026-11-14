@@ -4,6 +4,7 @@
 
 <p align="center">
   <a href="https://senagadavid.netlify.app/">Portfolio</a> ·
+  <a href="https://github.com/iammsenaga/iammsenaga/raw/refs/heads/main/assets/Osasenaga-David-Evbayiro-CV.pdf">CV (PDF)</a> ·
   <a href="https://github.com/iammsenaga/engineering-portfolio">Project case studies</a> ·
   <a href="https://ng.linkedin.com/in/osasenaga-evbayiro-4a7885395">LinkedIn</a> ·
   <a href="mailto:senaga.tech.hub@gmail.com">Email</a>
