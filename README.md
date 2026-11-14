@@ -25,7 +25,7 @@ I work across product architecture, Python backends and React/TypeScript interfa
 | **SEV** | An election platform covering accreditation, candidate screening, voting and public results. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/sev.md) · [Website](https://sevs.netlify.app/) |
 | **MealsByMoon** | A food commerce and catering website with menu discovery, customer accounts and ordering workflows. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/mealsbymoon.md) · [Website](https://mealsbymoon.co.uk/) |
 | **Personal portfolio** | A React/TypeScript portfolio with project narratives, interactive demonstrations and a publishing workspace. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/personal-portfolio.md) · [Website](https://senagadavid.netlify.app/) |
-| **PwetyPawcher Counter** | A browser tool for random sampling with replacement, saved samples and local history. | [Source & guide](https://github.com/iammsenaga/pwetypawcher) |
+| **PwetyPawcher Counter** | A browser tool for random sampling with replacement, saved samples and local history. | [Source & guide](https://github.com/iammsenaga/pwetypawcher) · [Demo](https://iammsenaga.github.io/pwetypawcher/) |
 
 Commercial project source code remains private. The case studies describe my role, the product and engineering considerations without exposing proprietary implementations.
 
