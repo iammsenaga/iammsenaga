@@ -20,19 +20,19 @@ I work across product architecture, Python backends and React/TypeScript interfa
 
 ### Selected work
 
-| Project | What I built | Explore |
-| :--- | :--- | :--- |
-| **Senaga Bulk Emailer** | Flask batch composer with validated recipients, CSV/TXT import and a preview-only public demo. | [Open-source code](https://github.com/iammsenaga/senaga-bulk-emailer) · [Try the demo](https://miprojects.pythonanywhere.com/bulk-emailer/) |
-| **iBible** | Bible reading, search, user accounts and personal study notes in a Flask application. | [Project overview](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/ibible.md) · [Live app](https://miprojects.pythonanywhere.com/bible/) |
-| **Senaga Weather** | Current weather by city and country, with metric units and a Python API backend. | [Open-source code](https://github.com/iammsenaga/senaga-weather) · [Live app](https://miprojects.pythonanywhere.com/weather/) |
-| **Hand Cursor** | A local Windows experiment using webcam hand gestures to move and click the mouse. | [Project overview](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/hand-cursor.md) |
-| **Evbayiro-IRR calculator** | An interactive demo running the actual Python package in your browser, with editable cash flows, NPV, IRR and calculation paths. | [Try the demo](https://evbayiro-irr-demo.deep-snow-8926.chatgpt.site) |
-| **VPRS** | A veterinary patient record and intelligence platform, connecting clinical workflows, decision support and reporting. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/vprs.md) |
-| **SEV** | An election platform covering accreditation, candidate screening, voting and public results. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/sev.md) · [Website](https://sevs.netlify.app/) |
-| **MealsByMoon** | A food commerce and catering website with menu discovery, customer accounts and ordering workflows. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/mealsbymoon.md) · [Website](https://mealsbymoon.co.uk/) |
-| **Personal portfolio** | A React/TypeScript portfolio with project narratives, interactive demonstrations and a publishing workspace. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/personal-portfolio.md) · [Website](https://senagadavid.netlify.app/) |
-| **Senaga Leads Extractor** | A Chrome extension for saving tab URLs, links and research notes locally. | [Open-source code](https://github.com/iammsenaga/senaga-leads-extractor) |
-| **PwetyPawcher Counter** | A browser tool for random sampling with replacement, saved samples and local history. | [Source & guide](https://github.com/iammsenaga/pwetypawcher) · [Demo](https://iammsenaga.github.io/pwetypawcher/) |
+| Project | Original year | What I built | Explore |
+| :--- | :--- | :--- | :--- |
+| **Senaga Bulk Emailer** | 2024 | Flask batch composer with validated recipients, CSV/TXT import and a preview-only public demo. | [Open-source code](https://github.com/iammsenaga/senaga-bulk-emailer) · [Try the demo](https://miprojects.pythonanywhere.com/bulk-emailer/) |
+| **iBible** | 2023 | Bible reading, search, user accounts and personal study notes in a Flask application. | [Project overview](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/ibible.md) · [Live app](https://miprojects.pythonanywhere.com/bible/) |
+| **Senaga Weather** | 2023 | Current weather by city and country, with metric units and a Python API backend. | [Open-source code](https://github.com/iammsenaga/senaga-weather) · [Live app](https://miprojects.pythonanywhere.com/weather/) |
+| **Hand Cursor** | 2026 | A local Windows experiment using webcam hand gestures to move and click the mouse. | [Project overview](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/hand-cursor.md) |
+| **Evbayiro-IRR calculator** | 2026 | An interactive demo running the actual Python package in your browser, with editable cash flows, NPV, IRR and calculation paths. | [Try the demo](https://evbayiro-irr-demo.deep-snow-8926.chatgpt.site) |
+| **VPRS** | 2025 | A veterinary patient record and intelligence platform, connecting clinical workflows, decision support and reporting. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/vprs.md) |
+| **SEV** | 2025 | An election platform covering accreditation, candidate screening, voting and public results. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/sev.md) · [Website](https://sevs.netlify.app/) |
+| **MealsByMoon** | 2025 | A food commerce and catering website with menu discovery, customer accounts and ordering workflows. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/mealsbymoon.md) · [Website](https://mealsbymoon.co.uk/) |
+| **Personal portfolio** | 2026 | A React/TypeScript portfolio with project narratives, interactive demonstrations and a publishing workspace. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/personal-portfolio.md) · [Website](https://senagadavid.netlify.app/) |
+| **Senaga Leads Extractor** | 2022 | A Chrome extension for saving tab URLs, links and research notes locally. | [Open-source code](https://github.com/iammsenaga/senaga-leads-extractor) |
+| **PwetyPawcher Counter** | 2026 | A browser tool for random sampling with replacement, saved samples and local history. | [Source & guide](https://github.com/iammsenaga/pwetypawcher) · [Demo](https://iammsenaga.github.io/pwetypawcher/) |
 
 Commercial project source code remains private. The case studies describe my role, the product and engineering considerations without exposing proprietary implementations.
 
