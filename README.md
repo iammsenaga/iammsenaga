@@ -22,8 +22,8 @@ I work across product architecture, Python backends and React/TypeScript interfa
 
 | Project | What I built | Explore |
 | :--- | :--- | :--- |
-| **iBible** | Bible reading, search, user accounts and personal study notes in a Flask application. | [Project overview](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/ibible.md) |
-| **Senaga Weather** | Current weather by city and country, with metric units and a Python API backend. | [Open-source code](https://github.com/iammsenaga/senaga-weather) |
+| **iBible** | Bible reading, search, user accounts and personal study notes in a Flask application. | [Project overview](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/ibible.md) · [Live app](https://miprojects.pythonanywhere.com/bible/) |
+| **Senaga Weather** | Current weather by city and country, with metric units and a Python API backend. | [Open-source code](https://github.com/iammsenaga/senaga-weather) · [Live app](https://miprojects.pythonanywhere.com/weather/) |
 | **Hand Cursor** | A local Windows experiment using webcam hand gestures to move and click the mouse. | [Project overview](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/hand-cursor.md) |
 | **Evbayiro-IRR calculator** | An interactive demo running the actual Python package in your browser, with editable cash flows, NPV, IRR and calculation paths. | [Try the demo](https://evbayiro-irr-demo.deep-snow-8926.chatgpt.site) |
 | **VPRS** | A veterinary patient record and intelligence platform, connecting clinical workflows, decision support and reporting. | [Case study](https://github.com/iammsenaga/engineering-portfolio/blob/main/projects/vprs.md) |
